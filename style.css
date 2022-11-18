@@ -771,20 +771,20 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #896cf3;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #896cf3!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #896cf3;
     color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
+    background: #6e4fdd!important;
     color: #FFFFFF!important;
 }
 
@@ -797,11 +797,11 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #F3976C!important;
+    color: #896cf3!important;
 }
 
 .ltc-atomic-tangerine:hover {
-    color: #c27956!important;
+    color: #6e4fdd!important;
 }
 
 .icon-dark-slate-blue {
@@ -818,7 +818,7 @@ h4 {
 }
 
 .bg-banniere {
-    background-image: url("img/agence-la-panthere.jpg");
+    background-image: url("img/agence-le-cerf.jpg");
 }
 
 .bg-presentation {

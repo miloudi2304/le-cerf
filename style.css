@@ -82,7 +82,7 @@ a:hover {
 }
 
 .bloc-bg-texture::before {
-    content: "";
+  
     background-size: 2px 2px;
     position: absolute;
     top: 0;
@@ -209,7 +209,7 @@ a:hover {
 .l-bloc .icon-rounded,
 .l-bloc .icon-semi-rounded-a,
 .l-bloc .icon-semi-rounded-b {
-    border-color: rgba(0, 0, 0, .7);
+    border-color: rgba(0, 0, 0, 0.7);
 }
 
 .d-bloc .panel .divider-h span,
@@ -232,7 +232,7 @@ a:hover {
 .l-bloc h5 a,
 .l-bloc h6 a,
 .l-bloc p a {
-    color: rgba(0, 0, 0, .6);
+    color: rgba(0, 0, 0, 0.6);
 }
 
 .d-bloc .panel .a-btn:hover,
@@ -678,7 +678,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 20px;
 }
 
 .tight-width-whitespace {
@@ -776,7 +776,7 @@ h4 {
 }
 
 .tc-white {
-    color: #896cf3!important;
+    color: #ffffff !important;
 }
 
 .btn-atomic-tangerine {
@@ -806,9 +806,10 @@ h4 {
 }
 
 .icon-dark-slate-blue {
-    color: #364577!important;
+    color: #720707!important;
     border-color: #364577!important;
 }
+
 
 .bg-dots-bg {
     background-image: url("img/dots-bg.png");
